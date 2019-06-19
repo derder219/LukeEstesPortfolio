@@ -1,0 +1,23 @@
+Phase B – Due 5 Oct @ 11:59pm
+In the second phase you will code the wireframes from Phase A into functional Android code. Implement the code to render the screens you designed in Phase A. They might not be exactly the same visually, but they should be reasonable approximations. You will also add code to properly interface with APIs that will bring the application to life with real live data. This includes the ability to look up the members of congress based on zip code or the phone’s current location, etc. Visual, aesthetic, graphic, and interaction design quality will be graded (38%).
+
+Key deliverables:
+
+Code and Video demonstrating correct functionality of all of the phone interaction as well as APIs in action in the Android emulator (or on the phone).
+PDF containing screenshots of the app with descriptions.
+Recommended APIs (covered in section):
+
+Google Location (Links to an external site.)Links to an external site. (current location)
+Google Geocoding (Links to an external site.)Links to an external site. (location to address)
+Geocodio (Links to an external site.)Links to an external site. (location or address to congressional district)
+ProPublica Congress API (Links to an external site.)Links to an external site. (all congressional info)
+ 
+
+Phase B Grading
+
+Does your app get the current location correctly on the phone? (3 points)
+Does your app correctly look up Senator and House Representative data by location? Do you disambiguate cases by ZIP code where there are multiple congresspeople? (5 points)
+Does your app use the APIs to get and display the required data for each congressperson: full name, their party (Democrat, Republican, Independent), email/contact page (with link), website (with link), on the phone? (10 points)
+Does your app implement a random feature for selecting a random location and updating the proper visuals on the phone? (2 points)
+Design: Does your app make good use of visual elements and an intuitive, easy-to-use interaction flow? (15 points)
+Documentation: narrated video, GitHub updated with new APKs, PDF contains screenshots + descriptions of the app (5 pts)
