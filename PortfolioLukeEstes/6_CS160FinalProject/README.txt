@@ -3,7 +3,7 @@ This project focus was for us to work in groups to actually create something we 
 The project was long but we spent many weeks meeting in our groups, working on seperate goals, and meanwhile being evaluated by the staff each step.
 
 The details for how we made our project, are presented in the design document we had to submit for this project.
-This class was an introduction to UI/UX, taught by Eric Paulos. The class was to help programmer get familiar with UI/UX concepts through the creation of many apps.
+This class was an introduction to UI/UX, taught by Eric Paulos. The class was to help programmers get familiar with UI/UX concepts through the creation of many apps.
 We created apps through Android Studio, using Java for the programming and Figma for design. We taught ourselves Android Studio individually while being taugh UI/UX concepts.
 These concepts were reinforced via grading rubrics that evaluated the projects we submitted.
 
