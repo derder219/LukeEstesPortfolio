@@ -1,4 +1,4 @@
-Project 2B for my class CS160, we were required to individually create an app that could interact with a user's location and a congressional API.
+Project 2B for my class CS160, we were required to individually create an app that could interact with a user's location and a congressional API. On top of Android Studio skills to make the app, we were also expected to teach ourselves how to parse JSON data.
 This app's focus was to show one's representatives based off their phone's location, an input zip code, or a randomize button.
 
 The spec for this project can be found in the text file labeled ProjectSpec.txt
